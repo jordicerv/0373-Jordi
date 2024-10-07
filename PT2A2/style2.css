@@ -1,0 +1,53 @@
+body{
+  background: #fff url('images/gradbg.jpg') top left repeat-x;
+  color: #000000;
+  margin: 0;
+  padding:0;
+  border: 0;
+  font-family: Verdana, Arial, sans-serif; font-size: 1em;
+}
+
+div {
+  width: 800px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 3em;
+  margin-bottom: 30px;
+  background: url('images/headbg.png') top left repeat;
+  padding: 10px 0;
+  color: red;
+}
+h2 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1em;
+  margin-bottom: 20px;
+  padding: 10px 0;
+  color: rgb(255, 208, 0);
+}
+
+#footer {
+  font-size: 0.5em;
+  border-top: 1px solid #000;
+  margin-top: 20px;
+  display: none;
+}
+#footer a {
+  color: #000;
+  text-decoration: none;
+}
+#footer a:hover{
+  text-decoration: underline;
+}
+
+#subtitle {
+  font-size: 0.9em;
+  color: #504e4e;
+  margin-bottom: 20px;
+  text-align: left;
+  font-style: oblique;
+}
