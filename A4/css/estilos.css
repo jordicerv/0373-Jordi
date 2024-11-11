@@ -41,7 +41,7 @@ nav a:hover {
 
 .fons {
     text-align: center;
-    background-image: url('A4/img/fondoindex.jpg'); /* Si quieres un fondo */
+    background-image: url('img/fondoindex.jpg'); /* Si quieres un fondo */
     background-size: cover;
     background-position: center; /* Center the background image */
     background-repeat: no-repeat; /* Prevent the background image from repeating */
