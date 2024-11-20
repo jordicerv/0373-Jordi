@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cartas Raras Pokémon</title>
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <a href="index.html">
+                <img class="logo" src="img/logo.png" alt="Logo Pokémon">
+            </a>
+            <a href="index.html">Inicio</a>
+            <a href="coinflip.html">Coinflip</a>
+            <a href="contacto.html">Contacto</a>
+        </nav>
+    </header>
+
+    <main>
+        <div class="form-box">
+            <form id="password-form">
+                <label for="password1">Nova contrasenya:</label>
+                <input type="password" id="password1" name="password1" required placeholder="Nova contrasenya">
+                <small>La contrasenya ha de tenir almenys 8 caràcters, una majúscula, una minúscula i un número.</small>
+                <br>
+
+                <label for="password2">Repeteix la nova contrasenya:</label>
+                <input type="password" id="password2" name="password2" required placeholder="Repeteix la nova contrasenya">
+                <br>
+
+                <button type="button" onclick="validateForm()">Canviar Contrasenya</button>
+            </form>
+        </div>
+    </main>
+
+    <div class="contador">
+        Tiempo: <span id="tiempo">0</span>s
+    </div>
+
+    <footer>
+        <div class="footer-text">
+            <p>Actividad realizada por <strong>Jordi Cervera Pallares</strong></p>
+        </div>
+        <div class="footer-text">
+            <p>Este trabajo está bajo la licencia <strong>CC BY-SA 4.0</strong></p>
+            <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">
+                <img src="img/creative-commons.png" class="footer-cc" alt="Licencia Creative Commons">
+            </a>
+        </div>
+    </footer>
+
+    <script src="components/jscript.js"></script>
+</body>
+
+</html>

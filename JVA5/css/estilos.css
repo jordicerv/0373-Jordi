@@ -1,0 +1,223 @@
+/* General */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    background-image: url("../img/grookey.jpg");
+}
+
+/* Header */
+header {
+    background-color: #191a19;
+    color: #fff;
+}
+
+.logo {
+    width: 150px;
+    height: auto;
+    position: absolute;
+    left: 10px;
+    /* Ajusta segons sigui necessari */
+    transform: translateY(-50%);
+}
+
+nav {
+    background-color: #191a19;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* Centra el contingut restant */
+    padding: 30px 0;
+    margin: 0;
+    box-sizing: border-box;
+    position: relative;
+    /* Necessari perquè la `.logo` sigui posicionada correctament */
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 0 15px;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #ffcc00;
+    /* Exemple de color per a efectes hover */
+}
+
+/* titul */
+.titol {
+    font-size: 30px;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+/* galeria */
+.gallery {
+    font-size: 30px;
+    text-align: center;
+    margin: 10px auto;
+}
+
+.gallery h2 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.thumbnails {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.thumbnails img {
+    width: 120px;
+    height: 150px;
+    cursor: pointer;
+    border: 2px solid transparent;
+    border-radius: 5px;
+    transition: transform 0.2s ease;
+}
+
+.thumbnails img:hover {
+    border: 2px solid #ff5e00;
+    transform: scale(1.1);
+}
+
+.main-image {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.main-image img {
+    max-width: 90%;
+    height: auto;
+    border: 5px solid #ffcc00;
+    border-radius: 10px;
+}
+
+/* Peu pagina */
+footer {
+    background-color: #191a19;
+    color: #fff;
+    padding: 0px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.footer-text {
+    display: flex;
+    margin-left: 70px;
+}
+
+.footer-cc {
+    margin-left: 20px;
+    width: auto;
+    height: auto;
+}
+
+/*texto oculto*/
+
+.highlight-section {
+    background-color: #e8e8e8;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+}
+
+.hidden-text {
+    display: none;
+    /* Oculto por defecto */
+    color: #ffffff;
+    margin-top: 10px;
+}
+
+.highlight-section:hover {
+    cursor: pointer;
+}
+
+.highlight-section.highlight {
+    background-color: #333;
+    color: #fff;
+}
+
+
+.highlight-section.highlight .hidden-text {
+    display: block;
+    /* se muestra cuando esta el raton encima */
+}
+
+/* contador */
+
+.contador {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 10px 10;
+    font-size: 1.5rem;
+    z-index: 1000;
+}
+
+/* Formulari */
+
+.form-box {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+/* Formulari */
+label {
+    display: block;
+    margin: 10px 0 5px;
+    text-align: left;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+small {
+    display: block;
+    color: #888;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #191a19;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 100%;
+}
+
+button:hover {
+    background-color: #333;
+}
+
