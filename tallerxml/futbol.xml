@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resultats>
+  <jornada numero="1">
+    <partit estat="finalitzat">
+      <local>R. Sociedad</local>
+      <visitant>Getafe</visitant>
+      <resultat>2-0</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Valencia</local>
+      <visitant>Málaga</visitant>
+      <resultat>1-0</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Osasuna</local>
+      <visitant>Granada</visitant>
+      <resultat>1-2</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Sevilla</local>
+      <visitant>Atlético</visitant>
+      <resultat>1-3</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Celta</local>
+      <visitant>Espanyol</visitant>
+      <resultat>2-2</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Valladolid</local>
+      <visitant>Athletic</visitant>
+      <resultat>1-2</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>FC Barcelona</local>
+      <visitant>Levante</visitant>
+      <resultat>7-0</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>R. Madrid</local>
+      <visitant>Betis</visitant>
+      <resultat>2-1</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Rayo</local>
+      <visitant>Elche</visitant>
+      <resultat>3-0</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Almeria</local>
+      <visitant>Villarreal</visitant>
+      <resultat>2-3</resultat>
+    </partit>
+  </jornada>
+  <jornada numero="2">
+    <partit estat="finalitzat">
+      <local>Getafe</local>
+      <visitant>Almeria</visitant>
+      <resultat>2-2</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Elche</local>
+      <visitant>R. Sociedad</visitant>
+      <resultat>1-1</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Villarreal</local>
+      <visitant>Valladolid</visitant>
+      <resultat>2-1</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Málaga</local>
+      <visitant>FC Barcelona</visitant>
+      <resultat>0-1</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Betis</local>
+      <visitant>Celta</visitant>
+      <resultat>1-2</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Athletic</local>
+      <visitant>Osasuna</visitant>
+      <resultat>2-0</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Espanyol</local>
+      <visitant>Valencia</visitant>
+      <resultat>3-1</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Atlético</local>
+      <visitant>Rayo</visitant>
+      <resultat>5-0</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Levante</local>
+      <visitant>Sevilla</visitant>
+      <resultat>0-0</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Granada</local>
+      <visitant>R. Madrid</visitant>
+      <resultat>0-1</resultat>
+    </partit>
+  </jornada>
+  <jornada numero="3">
+    <partit estat="finalitzat">
+      <local>Rayo</local>
+      <visitant>Levante</visitant>
+      <resultat>1-2</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Celta</local>
+      <visitant>Granada</visitant>
+      <resultat>1-1</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Osasuna</local>
+      <visitant>Villarreal</visitant>
+      <resultat>0-3</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Espanyol</local>
+      <visitant>Betis</visitant>
+      <resultat>0-0</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Valencia</local>
+      <visitant>FC Barcelona</visitant>
+      <resultat>2-3</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Almeria</local>
+      <visitant>Elche</visitant>
+      <resultat>2-2</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Valladolid</local>
+      <visitant>Getafe</visitant>
+      <resultat>1-0</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>R. Madrid</local>
+      <visitant>Athletic</visitant>
+      <resultat>3-1</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>R. Sociedad</local>
+      <visitant>Atlético</visitant>
+      <resultat>1-2</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Sevilla</local>
+      <visitant>Málaga</visitant>
+      <resultat>2-2</resultat>
+    </partit>
+  </jornada>
+  <jornada numero="4">
+    <partit estat="finalitzat">
+      <local>Atlético</local>
+      <visitant>Almería</visitant>
+      <resultat>4-2</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>FC Barcelona</local>
+      <visitant>Sevilla</visitant>
+      <resultat>3-2</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Granada</local>
+      <visitant>Espanyol</visitant>
+      <resultat>0-1</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Málaga</local>
+      <visitant>Rayo</visitant>
+      <resultat>5-0</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Elche</local>
+      <visitant>Valladolid</visitant>
+      <resultat>0-0</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Levante</local>
+      <visitant>R Sociedad</visitant>
+      <resultat>0-0</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Getafe</local>
+      <visitant>Osasuna</visitant>
+      <resultat>2-1</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Betis</local>
+      <visitant>Valencia</visitant>
+      <resultat>3-1</resultat>
+    </partit>
+    <partit estat="finalitzat">
+      <local>Athletic</local>
+      <visitant>Celta</visitant>
+      <resultat>3-2</resultat>
+    </partit> 
+  </jornada>
+</resultats>
