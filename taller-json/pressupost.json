@@ -1,0 +1,27 @@
+{
+    "pressupostos": [
+        {
+            "pressupost": "Opcio1",
+            "peçes": [
+                {"component": "placa_base", "marca": "Gigabyte", "model": "B760M D3H", "preu": 120.00},
+                {"component": "processador", "marca": "Intel", "model": "Core i3-13100", "preu": 150.00},
+                {"component": "memoria_RAM", "capacitat": "8GB", "tipus_memoria": "DDR4-3200", "quantitat": 2, "preu_peça": 40.00},
+                {"component": "disc_dur", "tipus": "SSD M.2 NVMe", "capacitat": "256GB", "preu": 60.00},
+                {"component": "targeta_grafica", "marca": "NVIDIA", "model": "Quadro P2200", "preu": 450.00},
+                {"component": "targeta_so", "integrada": "true", "preu": 0.00}
+            ]
+        },
+        {
+            "pressupost": "Opcio2",
+            "peçes": [
+                {"component": "placa_base", "marca": "ASUS", "model": "TUF Gaming B660-PLUS", "preu": 160.00},
+                {"component": "processador", "marca": "Intel", "model": "Core i5-13400", "preu": 220.00},
+                {"component": "memoria_RAM", "capacitat": "16GB", "tipus_memoria": "DDR5-4800", "quantitat": 2, "preu_peça": 80.00},
+                {"component": "disc_dur", "tipus": "SSD M.2 NVMe", "capacitat": "512GB", "preu": 100.00},
+                {"component": "targeta_grafica", "marca": "NVIDIA", "model": "GeForce GTX 1650", "preu": 200.00},
+                {"component": "targeta_so", "marca": "Creative", "model": "Sound Blaster Audigy FX", "preu": 7.00}
+            ]
+        }
+    ]
+}
+            

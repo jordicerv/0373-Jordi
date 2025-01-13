@@ -1,0 +1,156 @@
+{
+    "resultats": {
+        "jornades": [
+            {
+                "jornada": 1,
+                "partits": [
+                    {
+                        "local": "R. Sociedad",
+                        "visitant": "Getafe",
+                        "resultat": "2-0",
+                        "data": "2023-09-01",
+                        "estadi": "Anoeta"
+                    },
+                    {
+                        "local": "Valencia",
+                        "visitant": "Málaga",
+                        "resultat": "1-0",
+                        "data": "2023-09-01",
+                        "estadi": "Mestalla"
+                    },
+                    {
+                        "local": "Osasuna",
+                        "visitant": "Granada",
+                        "resultat": "1-2",
+                        "data": "2023-09-01",
+                        "estadi": "El Sadar"
+                    },
+                    {
+                        "local": "Sevilla",
+                        "visitant": "Atlético",
+                        "resultat": "1-3",
+                        "data": "2023-09-01",
+                        "estadi": "Ramón Sánchez-Pizjuán"
+                    },
+                    {
+                        "local": "Celta",
+                        "visitant": "Espanyol",
+                        "resultat": "2-2",
+                        "data": "2023-09-01",
+                        "estadi": "Abanca-Balaídos"
+                    },
+                    {
+                        "local": "Valladolid",
+                        "visitant": "Athletic",
+                        "resultat": "1-2",
+                        "data": "2023-09-01",
+                        "estadi": "José Zorrilla"
+                    },
+                    {
+                        "local": "FC Barcelona",
+                        "visitant": "Levante",
+                        "resultat": "7-0",
+                        "data": "2023-09-01",
+                        "estadi": "Camp Nou"
+                    },
+                    {
+                        "local": "R. Madrid",
+                        "visitant": "Betis",
+                        "resultat": "2-1",
+                        "data": "2023-09-01",
+                        "estadi": "Santiago Bernabéu"
+                    },
+                    {
+                        "local": "Rayo",
+                        "visitant": "Elche",
+                        "resultat": "3-0",
+                        "data": "2023-09-01",
+                        "estadi": "Vallecas"
+                    },
+                    {
+                        "local": "Almeria",
+                        "visitant": "Villarreal",
+                        "resultat": "2-3",
+                        "data": "2023-09-01",
+                        "estadi": "Juegos Mediterráneos"
+                    }
+                ]
+            },
+            {
+                "jornada": 2,
+                "partits": [
+                    {
+                        "local": "Getafe",
+                        "visitant": "Almeria",
+                        "resultat": "2-2",
+                        "data": "2023-09-08",
+                        "estadi": "Coliseum Alfonso Pérez"
+                    },
+                    {
+                        "local": "Elche",
+                        "visitant": "R. Sociedad",
+                        "resultat": "1-1",
+                        "data": "2023-09-08",
+                        "estadi": "Martínez Valero"
+                    },
+                    {
+                        "local": "Villarreal",
+                        "visitant": "Valladolid",
+                        "resultat": "2-1",
+                        "data": "2023-09-08",
+                        "estadi": "La Cerámica"
+                    },
+                    {
+                        "local": "Málaga",
+                        "visitant": "FC Barcelona",
+                        "resultat": "0-1",
+                        "data": "2023-09-08",
+                        "estadi": "La Rosaleda"
+                    },
+                    {
+                        "local": "Betis",
+                        "visitant": "Celta",
+                        "resultat": "1-2",
+                        "data": "2023-09-08",
+                        "estadi": "Benito Villamarín"
+                    },
+                    {
+                        "local": "Athletic",
+                        "visitant": "Osasuna",
+                        "resultat": "2-0",
+                        "data": "2023-09-08",
+                        "estadi": "San Mamés"
+                    },
+                    {
+                        "local": "Espanyol",
+                        "visitant": "Valencia",
+                        "resultat": "3-1",
+                        "data": "2023-09-08",
+                        "estadi": "RCDE Stadium"
+                    },
+                    {
+                        "local": "Atlético",
+                        "visitant": "Rayo",
+                        "resultat": "5-0",
+                        "data": "2023-09-08",
+                        "estadi": "Metropolitano"
+                    },
+                    {
+                        "local": "Levante",
+                        "visitant": "Sevilla",
+                        "resultat": "0-0",
+                        "data": "2023-09-08",
+                        "estadi": "Ciutat de València"
+                    },
+                    {
+                        "local": "Granada",
+                        "visitant": "R. Madrid",
+                        "resultat": "0-1",
+                        "data": "2023-09-08",
+                        "estadi": "Nuevo Los Cármenes"
+                    }
+                ]
+            }
+        ]
+    }
+}
